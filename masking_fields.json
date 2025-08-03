@@ -1,0 +1,3 @@
+{
+  "fields_to_mask": ["ssn", "card_number"]
+}
